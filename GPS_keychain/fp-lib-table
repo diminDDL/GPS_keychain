@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name SIM)(type KiCad)(uri ${KIPRJMOD}/lib/SIM.pretty)(options "")(descr ""))
+  (lib (name antony_KiCad_footprints)(type KiCad)(uri ${KIPRJMOD}/lib/M590/antony_KiCad_footprints.pretty)(options "")(descr ""))
+  (lib (name NEO-6M)(type KiCad)(uri ${KIPRJMOD}/lib/NEO-6M)(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib)(options "")(descr ""))
+  (lib (name GPS_keychain)(type KiCad)(uri ${KIPRJMOD}/GPS_keychain.pretty)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri ${KIPRJMOD}/lib/logo)(options "")(descr ""))
+)

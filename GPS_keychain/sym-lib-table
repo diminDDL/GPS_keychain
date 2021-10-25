@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name NEO-6M-GPS)(type Legacy)(uri ${KIPRJMOD}/lib/NEO-6M/NEO-6M-GPS.lib)(options "")(descr ""))
+  (lib (name RT9193-33GB)(type Legacy)(uri ${KIPRJMOD}/lib/RT9193-33GB/RT9193-33GB.lib)(options "")(descr ""))
+  (lib (name fs8205a)(type Legacy)(uri /home/dima/Documents/kicad/tp4056/tp4056/lib/fs8205a.lib)(options "")(descr ""))
+  (lib (name dw01)(type Legacy)(uri /home/dima/Documents/kicad/tp4056/tp4056/lib/dw01.lib)(options "")(descr ""))
+  (lib (name tp4056)(type Legacy)(uri /home/dima/Documents/kicad/tp4056/tp4056/lib/tp4056.lib)(options "")(descr ""))
+  (lib (name antony_KiCad_library)(type Legacy)(uri ${KIPRJMOD}/lib/M590/antony_KiCad_library.lib)(options "")(descr ""))
+  (lib (name FDN359BN)(type Legacy)(uri ${KIPRJMOD}/lib/FDN359BN.lib)(options "")(descr ""))
+)
